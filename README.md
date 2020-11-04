@@ -1,2 +1,2 @@
-# p5bolierplate
-Collision and bouncyness algorithim
+# p5.play-boilerplate
+Boiler plate for p5.play
